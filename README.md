@@ -1,1 +1,0 @@
-Goal of this project is to provide security for user authentication and authorization systems, so ensure that it follows best practices and use secure communication protocols (e.g., HTTPS) to protect sensitive information.
